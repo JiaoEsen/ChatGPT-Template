@@ -1,6 +1,8 @@
 # ChatGPT-Template
 
-ChatGPT-Template 是一款由Vue3+TypeScript+Vite等前端前沿技术打造的静态模板。
+**ChatGPT-Template** 是一款由**Vue3+TypeScript+Vite**等前端前沿技术打造的**静态模板**。
+
+支持 **Markdown** 语法展示
 
 ## 启动方式
 ```js
