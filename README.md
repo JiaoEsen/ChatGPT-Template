@@ -4,6 +4,8 @@ ChatGPT-Template 是一款由Vue3+TypeScript+Vite等前端前沿技术打造的�
 
 ## 启动方式
 ```js
+   git clone https://github.com/JiaoEsen/ChatGPT-Template.git
+   cd chatgpt-template
    pnpm install
    pnpm run dev
 ```
