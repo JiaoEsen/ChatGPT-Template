@@ -3,9 +3,9 @@
         <div class="search-container">
             <Search />
         </div>
-        <div class="prompt-container">
+        <!-- <div class="prompt-container">
             <Prompt />
-        </div>
+        </div> -->
         <div class="dialog-container">
             <DiaLogWrapper />
         </div>
@@ -50,5 +50,9 @@ import DiaLogWrapper from './dialog/DiaLogWrapper.vue'
     width: 800px;
     margin: 0 auto;
     padding: 10vh 0;
+}
+
+.dialog-container {
+    padding-top: 40px;
 }
 </style>
