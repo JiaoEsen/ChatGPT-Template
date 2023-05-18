@@ -15,8 +15,6 @@
 <script setup lang="ts">
 import { onMounted, ref } from 'vue';
 import { getAssetsImages } from '@/utils/index';
-// import { jsonAnimation } from '@/utils/lottie-web';
-// import loadingJson from '@/assets/json/ai-coding.json';
 
 interface Props {
     diaLog: any
